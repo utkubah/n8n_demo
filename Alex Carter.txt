@@ -1,0 +1,42 @@
+📞
+📧
+🏠
+
+Alex Carter​
++1 555 987 6543​
+alexcarter@example.com​
+456 Code Street, Silicon Valley, USA
+
+Professional Summary
+Detail-oriented and highly motivated computer science engineer with strong programming skills
+and experience in software development, algorithms, and system design. Passionate about
+solving real-world problems using scalable and efficient technology solutions.
+
+Work Experience
+Software Engineer​
+TechNova Solutions, San Francisco​
+July 2021 – Present
+●​ Developed and maintained web applications using Python, JavaScript, and React​
+●​ Optimized backend performance, reducing server response times by 40%​
+●​ Collaborated in Agile teams and contributed to code reviews and feature design​
+
+Intern – Backend Developer​
+NextGen Systems, Remote​
+June 2020 – August 2020
+●​ Built REST APIs using Node.js and MongoDB​
+●​ Assisted in designing database schemas and performing unit tests​
+●​ Created documentation for internal tools​
+
+Skills
+
+●​ Programming: Python, Java, C++, JavaScript​
+●​ Web Development: HTML/CSS, React, Node.js​
+●​ Databases: SQL, MongoDB​
+●​ Tools: Git, Docker, Linux, VS Code​
+●​ Problem Solving & Algorithms​
+
+Education
+B.Sc. in Computer Science​
+University of California, Berkeley — 2021
+
+
